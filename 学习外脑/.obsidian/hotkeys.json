@@ -1,0 +1,12 @@
+{
+  "editor:delete-paragraph": [],
+  "editor:open-search": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
+}

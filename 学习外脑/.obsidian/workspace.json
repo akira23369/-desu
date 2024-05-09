@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "40f2421a948d06d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6efef76897021d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a3fa6a91d095eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/进阶/2D相关/Sprite/SpriteCreator 精灵创造者.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abc6f9c8dfe19a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4077c6c34ad029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c13c16acbc4daf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7c5d4da2b290e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#算法",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eebb1a47df89b2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "1dfcfb2bced38f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6cb4286e174bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61968d26605cc016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/进阶/2D相关/Sprite/SpriteCreator 精灵创造者.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "126710d84d490ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity/进阶/2D相关/Sprite/SpriteCreator 精灵创造者.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5316a084f080a49c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "416c892f4face3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity/进阶/2D相关/Sprite/SpriteCreator 精灵创造者.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "6a3fa6a91d095eba",
+  "lastOpenFiles": [
+    "Pasted image 20240509152423.png",
+    "算法/Acwing/基础/基础算法/快速排序.md",
+    "算法/Acwing/基础/基础算法/基础算法List.md",
+    "all/c++课堂零碎.md",
+    "git.md",
+    "附件/音效系统.xmind.baiduyun.uploading.cfg",
+    "附件/需求分析图2.png.baiduyun.uploading.cfg",
+    "附件/需求分析图1.png.baiduyun.uploading.cfg",
+    "附件/碰撞器.xmind.baiduyun.uploading.cfg",
+    "附件/物理材质.xmind.baiduyun.uploading.cfg",
+    "附件/游戏打包.xmind.baiduyun.uploading.cfg",
+    "附件/图片相关设置.xmind.baiduyun.uploading.cfg",
+    "附件/参数设置—纹理类型.xmind.baiduyun.uploading.cfg",
+    "附件/参数设置—纹理类型 1.xmind.baiduyun.uploading.cfg",
+    "附件/参数设置—纹理形状.xmind.baiduyun.uploading.cfg",
+    "附件/需求分析图2.png",
+    "附件/需求分析图1.png",
+    "附件/Pasted image 20240508180840.png",
+    "附件/Pasted image 20240508173210.png",
+    "附件/Pasted image 20240508172935.png",
+    "附件/Pasted image 20240508171103.png",
+    "附件/Pasted image 20240508171025.png",
+    "附件/Pasted image 20240508170219.png",
+    "附件/Pasted image 20240508170216.png",
+    "附件/Pasted image 20240508154615.png",
+    "设计模式/设计模式七大原则.md",
+    "编程语言/Cshap知识点/预处理指令.md",
+    "编程语言/Cshap知识点/静态类与静态构造函数.md",
+    "编程语言/Cshap知识点/静态变量与函数.md",
+    "编程语言/Cshap知识点/里氏替换原则.md",
+    "编程语言/Cshap知识点/迭代器.md",
+    "编程语言/Cshap知识点/运算符重载.md",
+    "编程语言/Cshap知识点/设置对象初始值.md",
+    "编程语言/Cshap知识点/虚函数.md",
+    "编程语言/Cshap知识点/继承中的构造函数.md",
+    "编程语言/Cshap知识点/类似cpp引用.md",
+    "编程语言/Cshap知识点/程序集.md",
+    "编程语言/Cshap知识点/特性.md",
+    "编程语言/Cshap知识点/泛型与数据结构.md",
+    "编程语言/Cshap知识点/构造函数间相互调用.md",
+    "编程语言/Cshap知识点/接口.md",
+    "编程语言/Cshap知识点/拓展方法.md",
+    "编程语言/Cshap知识点/抽象类与接口的异同.md",
+    "编程语言/Cshap知识点/抽象类与抽象函数(纯虚函数).md",
+    "编程语言/Cshap知识点/成员属性和索引器.md",
+    "编程语言/Cshap知识点/委托.md",
+    "未命名.canvas"
+  ]
+}
