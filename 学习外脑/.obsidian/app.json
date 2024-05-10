@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "useTab": false
+  "useTab": false,
+  "attachmentFolderPath": "附件"
 }
