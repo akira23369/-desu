@@ -2,5 +2,6 @@
   "readableLineLength": false,
   "strictLineBreaks": true,
   "useTab": false,
-  "attachmentFolderPath": "附件"
+  "attachmentFolderPath": "附件",
+  "newFileLocation": "current"
 }

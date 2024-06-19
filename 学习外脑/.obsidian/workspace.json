@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/Acwing/基础/贪心/耍杂技的牛.md",
+                "file": "算法/左神/桶排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/Acwing/基础/贪心/耍杂技的牛.md",
+                "file": "算法/左神/桶排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/Acwing/基础/贪心/耍杂技的牛.md",
+                "file": "算法/左神/桶排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/Acwing/基础/贪心/耍杂技的牛.md"
+                "file": "算法/左神/桶排序.md"
               }
             }
           }
@@ -147,54 +147,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8dc075a555afedd3",
+  "active": "4c13c16acbc4daf3",
   "lastOpenFiles": [
-    "附件/Pasted image 20240514011448.png",
-    "算法/Acwing/基础/贪心/货仓选址.md",
-    "算法/Acwing/基础/贪心/耍杂技的牛.md",
-    "附件/Pasted image 20240514011403.png",
-    "算法/Acwing/基础/贪心/排队打水.md",
-    "附件/Pasted image 20240514011258.png",
-    "算法/Acwing/基础/贪心/合并果子.md",
-    "附件/Pasted image 20240514011200.png",
-    "算法/Acwing/基础/贪心/区间覆盖.md",
-    "附件/Pasted image 20240514011044.png",
-    "算法/Acwing/基础/贪心/区间分组.md",
-    "附件/Pasted image 20240514010934.png",
-    "附件/Pasted image 20240514010930.png",
-    "算法/Acwing/基础/贪心/最大不相交区间数量.md",
-    "附件/Pasted image 20240514010815.png",
-    "算法/Acwing/基础/贪心/区间选点.md",
-    "附件/Pasted image 20240514010710.png",
-    "Unity/进阶/2D动画/2D序列帧动画.md",
+    "操作系统/操作系统知识点.md",
+    "操作系统/字节序.md",
+    "操作系统/指令.md",
+    "操作系统/函数调用.md",
+    "操作系统/函数调用栈.md",
+    "操作系统/寄存器rbp和rsp.md",
+    "操作系统/程序是怎么运行的.md",
+    "Unity/UI系统/UGUI/UGUI基础/三大基础控件/Image图像控件.md",
+    "附件/Pasted image 20240524185000.png",
+    "附件/Pasted image 20240524184850.png",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/RectTransformUI位置锚点组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/三大基础控件",
+    "附件/Pasted image 20240524183552.png",
+    "附件/Pasted image 20240524094044.png",
+    "附件/Pasted image 20240524093912.png",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/Graphic Raycaster 射线事件交互组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/EventSystem和Standalone Input Module点击事件监听组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件",
+    "附件/Pasted image 20240524093654.png",
+    "附件/Pasted image 20240524092530.png",
+    "附件/Pasted image 20240524092324.png",
+    "附件/Pasted image 20240524091633.png",
+    "附件/Pasted image 20240524091149.png",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/六大基础组件概述.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/Canvas渲染模式的控制.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler 3D模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler 恒定物理模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler缩放模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler恒定像素模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler必备知识.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler",
+    "算法/左神/桶排序.md",
+    "刷题合集/打印队列 Printer Queue.md",
+    "算法/左神",
+    "编程语言/Cshap知识点/静态变量与函数.md",
+    "编程语言/Cshap知识点/值类型与引用类型.md",
+    "编程语言/Cshap知识点/Csharp命名规范.md",
+    "编程语言/Cshap知识点/Csharp源代码到运行时主要阶段.md",
+    "编程语言/Cshap知识点/Csharp知识点思维导图.md",
+    "编程语言/Cshap知识点/struct和class的异同.md",
+    "Unity/UI系统/UGUI/UGUI基础",
+    "Unity/UI系统/UGUI",
     "算法/Acwing/基础/贪心",
-    "附件/Pasted image 20240514001412.png",
-    "附件/Pasted image 20240514000503.png",
-    "Unity/数据持久化/PlayerPrefs/PlayerPrefs基本方法.md",
     "Unity/进阶/2D动画/2D骨骼动画",
     "Unity/进阶/2D动画/序列帧动画",
     "Unity/进阶/2D动画",
-    "Unity/数据持久化/PlayerPrefs/加密思路.md",
-    "Unity/数据持久化/PlayerPrefs/数据管理类.md",
-    "Unity/进阶/动画基础/Animator动画状态机/有限状态机概念.md",
-    "Unity/进阶/动画基础/Animator动画状态机/动画控制器状态机.md",
-    "Unity/进阶/动画基础/Animation动画窗口/认识Animation窗口.md",
-    "Unity/进阶/动画基础/Animation动画窗口/老动画系统.md",
-    "Unity/进阶/动画基础/Animation动画窗口/创建编辑动画Animation.md",
-    "算法/Acwing/基础/动态规划/111动态规划List.md",
-    "算法/Acwing/基础/动态规划/滑雪.md",
-    "算法/Acwing/基础/动态规划/没有上司的舞会.md",
-    "算法/Acwing/基础/动态规划/最短Hamilton路径.md",
-    "算法/Acwing/基础/动态规划/蒙德里安的梦想.md",
-    "算法/Acwing/基础/动态规划/计数问题.md",
-    "算法/Acwing/基础/动态规划/整数划分.md",
-    "算法/Acwing/基础/动态规划/石子合并.md",
-    "Unity/进阶/动画基础/Animator动画状态机",
-    "Unity/进阶/动画基础/Animation动画窗口",
-    "Unity/进阶/动画基础",
-    "Unity/进阶/2D相关/瓦片地图",
-    "Unity/进阶/2D相关/SpriteShape",
-    "算法/Acwing/基础/动态规划",
     "未命名.canvas"
   ]
 }
