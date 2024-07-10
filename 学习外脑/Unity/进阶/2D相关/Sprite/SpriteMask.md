@@ -8,4 +8,4 @@
 
 
 
-CustomRange 是[ back.  front) 
+CustomRange 是 (back.  front) 
