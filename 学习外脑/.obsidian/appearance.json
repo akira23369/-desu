@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Typora-Vue",
+  "cssTheme": "Obsidian Nord",
   "accentColor": "#1bdec8",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Consolas"
 }

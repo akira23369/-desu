@@ -1,7 +1,10 @@
 {
   "readableLineLength": false,
-  "strictLineBreaks": true,
-  "useTab": false,
+  "strictLineBreaks": false,
+  "useTab": true,
   "attachmentFolderPath": "附件",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "smartIndentList": true,
+  "spellcheck": true,
+  "autoConvertHtml": true
 }

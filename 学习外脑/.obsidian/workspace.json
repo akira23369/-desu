@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/进阶/3D动画相关/3D动画的使用.md",
+                "file": "编程语言/Cshap知识点/csharp基本数据结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67da32670e08532f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/数据结构/模拟堆.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e82a75f49f3ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3511ce647496609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aa4bb36a9cfadc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1855b493874212f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ab62d14680e4bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/Acwing/基础/搜索与图论/递归实现组合型枚举.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -69,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 353.5
   },
   "right": {
     "id": "1dfcfb2bced38f1e",
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/进阶/3D动画相关/3D动画的使用.md",
+                "file": "算法/Acwing/基础/搜索与图论/递归实现组合型枚举.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/进阶/3D动画相关/3D动画的使用.md",
+                "file": "算法/Acwing/基础/搜索与图论/递归实现组合型枚举.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/进阶/3D动画相关/3D动画的使用.md"
+                "file": "算法/Acwing/基础/搜索与图论/递归实现组合型枚举.md"
               }
             }
           }
@@ -134,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,57 +217,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "83905db880b7da77",
+  "active": "9ab62d14680e4bf7",
   "lastOpenFiles": [
-    "附件/Pasted image 20240710155917.png",
-    "附件/Pasted image 20240710154659.png",
-    "Unity/进阶/模型导入/模型导入概述.md",
-    "Unity/进阶/3D动画相关/3D动画的使用.md",
-    "Unity/进阶/3D动画相关",
-    "Unity/进阶/模型导入/Rig骨骼页签.md",
-    "Unity/进阶/模型导入/Animation动画页签.md",
-    "Unity/进阶/模型导入/Model 模型页签.md",
-    "Unity/进阶/模型导入/Meterials 材质纹理页签.md",
-    "附件/Pasted image 20240710140105.png",
-    "附件/Pasted image 20240709163523.png",
-    "附件/Pasted image 20240709162003.png",
-    "附件/Pasted image 20240709161912.png",
-    "附件/Pasted image 20240709161217.png",
-    "算法/左神/排序/快排.md",
-    "算法/Acwing/基础/基础算法/快速排序.md",
-    "算法/左神/排序/归并与归并分治.md",
-    "算法/左神/排序/随机快排和选择.md",
+    "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
+    "算法/Acwing/基础/搜索与图论/递归实现排列型枚举.md",
+    "算法/Acwing/基础/搜索与图论/递归实现组合型枚举.md",
+    "算法/Acwing/基础/搜索与图论/递归实现指数型枚举.md",
+    "算法/左神/数据结构/二叉树高频题 下.md",
+    "附件/Pasted image 20240808111921.png",
+    "算法/左神/数据结构/二叉树高频题 上.md",
+    "附件/Pasted image 20240806172513.png",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/EventSystem和Standalone Input Module点击事件监听组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/Graphic Raycaster 射线事件交互组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/RectTransformUI位置锚点组件.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/Canvas渲染模式的控制.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler恒定像素模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler缩放模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler必备知识.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler/CanvasScaler 3D模式.md",
+    "Unity/UI系统/UGUI/UGUI基础/六大基础组件/六大基础组件概述.md",
+    "附件/Pasted image 20240730221710.png",
+    "附件/Pasted image 20240730221631.png",
+    "算法/Acwing/基础/搜索与图论/排列数字.md",
+    "算法/左神/数据结构",
+    "算法/左神/数据结构高频题.md",
+    "附件/Pasted image 20240730120234.png",
+    "附件/Pasted image 20240730045059.png",
+    "算法/Acwing/基础/数据结构/模拟堆.md",
+    "编程语言/Cshap知识点/csharp基本数据结构.md",
+    "编程语言/Cshap知识点/Csharp知识点思维导图.md",
+    "编程语言/Cshap知识点/泛型与数据结构.md",
+    "编程语言/Cshap知识点/堆.md",
+    "附件/Pasted image 20240730033318.png",
     "算法/左神/递归和master公式.md",
-    "附件/Pasted image 20240708192350.png",
-    "附件/Pasted image 20240708190550.png",
-    "附件/Pasted image 20240708190136.png",
-    "附件/Pasted image 20240708184839.png",
+    "算法/左神/排序/堆结构.md",
+    "附件/Pasted image 20240718231857.png",
+    "算法/左神/链表高频题.md",
+    "附件/Pasted image 20240718184309.png",
+    "算法/左神/位图.md",
+    "附件/Pasted image 20240718035842.png",
+    "Unity/进阶/导航寻路系统",
+    "Unity/进阶/3D动画相关",
     "Unity/进阶/模型导入/Model 模型页签",
     "Unity/进阶/模型导入",
-    "Unity/进阶/2D动画/2D骨骼动画/spine.md",
-    "设计模式/设计模式七大原则.md",
-    "Unity/进阶/2D动画/2D骨骼动画/换装.md",
-    "Unity/进阶/2D动画/2D序列帧动画.md",
-    "Unity/进阶/2D动画/2D骨骼动画/单张图片骨骼编辑.md",
-    "Unity/进阶/2D动画/2D骨骼动画/反向动力学 IK.md",
-    "Unity/进阶/2D动画/2D骨骼动画/psb图片骨骼编辑.md",
-    "编程语言/Cshap知识点/Csharp命名规范.md",
-    "编程语言/Cshap知识点/Csharp知识点思维导图.md",
-    "Unity/数据持久化/XML/xml序列化.md",
-    "Unity/数据持久化/XML/XML封装.md",
-    "编程语言/Cshap知识点/命名空间.md",
     "算法/左神/排序",
-    "算法/Acwing/基础/搜索与图论/排列数字.md",
-    "算法/Acwing/基础/搜索与图论/111搜索与图论.md",
     "Unity/UI系统/UGUI/UGUI基础/三大基础控件",
     "Unity/UI系统/UGUI/UGUI基础/六大基础组件",
     "Unity/UI系统/UGUI/UGUI基础/六大基础组件/CanvasScaler",
     "算法/左神",
-    "Unity/UI系统/UGUI/UGUI基础",
-    "Unity/UI系统/UGUI",
     "未命名.canvas"
   ]
 }

@@ -38,6 +38,24 @@ void Update()
 {
 	transform.rotation *= Quaternion.AngleAxis(1, transform.up);
 }
+
+
+void Start()
+{
+    // 定义一个向量
+    Vector3 vector = new Vector3(1, 0, 0);
+
+    // 定义一个四元数表示45度绕Y轴的旋转
+    Quaternion rotation = Quaternion.Euler(0, 45, 0);
+
+    // 使用四元数旋转向量
+    Vector3 rotatedVector = rotation * vector;
+
+    // 打印结果
+    Debug.Log("Original Vector: " + vector);
+    Debug.Log("Rotated Vector: " + rotatedVector);
+}
+
 ```
 
 ### 四元数常用
